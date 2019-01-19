@@ -1,0 +1,52 @@
+<data>
+  <list>
+    <title>Киев</title>
+    <region />
+    <value>2200001</value>
+  </list>
+  <list>
+    <title>Киев-Волынский</title>
+    <region> </region>
+    <value>2200003</value>
+  </list>
+  <list>
+    <title>Киев-Демеевский</title>
+    <region />
+    <value>2200004</value>
+  </list>
+  <list>
+    <title>Киевская</title>
+    <region />
+    <value>2058041</value>
+  </list>
+  <list>
+    <title>Киевская Русановка</title>
+    <region />
+    <value>2201180</value>
+  </list>
+  <list>
+    <title>Киевский</title>
+    <region />
+    <value>2064627</value>
+  </list>
+  <list>
+    <title>Бахмач-Киевский</title>
+    <region />
+    <value>2200032</value>
+  </list>
+  <list>
+    <title>Льгов-Киевский</title>
+    <region />
+    <value>2000310</value>
+  </list>
+  <list>
+    <title>Москва Киевская</title>
+    <region />
+    <value>2000007</value>
+  </list>
+  <list>
+    <title>Москва-Сорт-Киевск.</title>
+    <region />
+    <value>2001069</value>
+  </list>
+</data>
